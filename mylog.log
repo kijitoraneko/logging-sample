@@ -2,3 +2,43 @@
 2018-07-03 12:17:01,212  WARN App - hello world
 2018-07-03 12:17:53,522  WARN App - hello world
 2018-07-03 12:28:19,184 DEBUG BadClass - bad Class
+2018-07-03 14:46:46,106 FATAL Parent - parentふぇーたる
+2018-07-03 14:46:46,106 ERROR Parent - parentえらー
+2018-07-03 14:46:46,107  WARN Parent - parentわーん
+2018-07-03 14:46:46,107 FATAL Child - childふぇーたる
+2018-07-03 14:46:46,108 ERROR Child - childえらー
+2018-07-03 14:46:46,108  WARN Child - childわーん
+2018-07-03 14:46:46,108  INFO Child - childいんほ
+2018-07-03 14:46:46,108 DEBUG Child - childでばっぐ
+2018-07-03 14:46:46,108 FATAL Grandson - grandsonふぇーたる
+2018-07-03 14:46:46,109 ERROR Grandson - grandsonえらー
+2018-07-03 14:46:46,109  WARN Grandson - grandsonわーん
+2018-07-03 14:46:46,109  INFO Grandson - grandsonいんほ
+2018-07-03 14:46:46,109 DEBUG Grandson - grandsonでばっぐ
+2018-07-03 14:47:54,227 FATAL Parent - parentふぇーたる
+2018-07-03 14:47:54,227 ERROR Parent - parentえらー
+2018-07-03 14:47:54,227  WARN Parent - parentわーん
+2018-07-03 14:47:54,228 FATAL Child - childふぇーたる
+2018-07-03 14:47:54,228 ERROR Child - childえらー
+2018-07-03 14:47:54,228  WARN Child - childわーん
+2018-07-03 14:47:54,228  INFO Child - childいんほ
+2018-07-03 14:47:54,229 DEBUG Child - childでばっぐ
+2018-07-03 14:47:54,229 TRACE Child - childとれーす
+2018-07-03 14:47:54,229 FATAL Grandson - grandsonふぇーたる
+2018-07-03 14:47:54,229 ERROR Grandson - grandsonえらー
+2018-07-03 14:47:54,230  WARN Grandson - grandsonわーん
+2018-07-03 14:47:54,230  INFO Grandson - grandsonいんほ
+2018-07-03 14:47:54,230 DEBUG Grandson - grandsonでばっぐ
+2018-07-03 14:47:54,230 TRACE Grandson - grandsonとれーす
+2018-07-03 14:49:01,776 FATAL Parent - parentふぇーたる
+2018-07-03 14:49:01,777 ERROR Parent - parentえらー
+2018-07-03 14:49:01,777  WARN Parent - parentわーん
+2018-07-03 14:49:01,778 FATAL Child - childふぇーたる
+2018-07-03 14:49:01,778 ERROR Child - childえらー
+2018-07-03 14:49:01,778  WARN Child - childわーん
+2018-07-03 14:49:01,778 FATAL Grandson - grandsonふぇーたる
+2018-07-03 14:49:01,778 ERROR Grandson - grandsonえらー
+2018-07-03 14:49:01,779  WARN Grandson - grandsonわーん
+2018-07-03 14:49:22,052 FATAL Parent - parentふぇーたる
+2018-07-03 14:49:22,053 FATAL Child - childふぇーたる
+2018-07-03 14:49:22,054 FATAL Grandson - grandsonふぇーたる
